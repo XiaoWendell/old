@@ -2,9 +2,9 @@
 title: Wendell's bolg
 SEOTitle: Wendell
 header-img: img/post-bg-desk.jpg
-email: 2071739133qq.com
+email: 2071739133@qq.com
 description: "Wendell's bolg"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+keyword: "bolg, 博客, xiaowu, wendell"
 url: "https://xiaowu5201314.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: xiaowu5201314.github.io    #仓库名称
+  owner: xiaowu5201314    #github用户名
+  admin: xiaowu5201314
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
