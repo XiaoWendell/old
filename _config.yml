@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+  github_username:    xiaowu5201314.github.io
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
+  clientID: 90229d28f1f6053fdc23                            #生成的clientID
+  clientSecret: 1804f654e2b356429447eb2e7d567c58478516c9   #生成的clientSecret
   repo: xiaowu5201314.github.io    #仓库名称
   owner: xiaowu5201314    #github用户名
   admin: xiaowu5201314
