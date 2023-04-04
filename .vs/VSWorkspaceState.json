@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\img",
+    "\\img-post",
+    "\\_posts"
   ],
-  "SelectedNode": "\\css",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\img\\山.jpg",
+  "PreviewInSolutionExplorer": true
 }
